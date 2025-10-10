@@ -1,0 +1,3 @@
+Ola! Este é um exemplo de JavaIO
+Estamos escrevendo texto em um arquivo
+Depois vamos ler esse conteudo
